@@ -11,7 +11,7 @@
   <h3 style="color: #c9d1d9; margin-bottom: 1.5rem; font-family: system-ui;">Languages & Tools</h3>
   
   <div style="margin-bottom: 1.5rem;">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nodejs,expressjs,mongodb,dsa,react,redux,materialui,tailwind,figma,postman,visualstudio,postgresql,aws,socket.io" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nodejs,expressjs,mongodb,dsa,react,redux,materialui,tailwind,figma,postman,visualstudio,postgresql,aws,socket.io,docker,nginx" alt="Skills" />
   </div>
 </div>
 
