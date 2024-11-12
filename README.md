@@ -1,24 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PeerMohammad07&label=Profile%20views&color=0e75b6&style=flat" alt="PeerMohammad07" /> </p>
 
 <h1 align="center">Hi 👋, I'm Peer Mohammad</h1>
-<img align="right" alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="center">
   <a href="mailto:peeru548@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/peer-mohammad-018215291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-
-### About Me:
-- 🌱 I’m currently deepening my knowledge in the **MERN Stack** and backend development.
-- 🚀 I’m passionate about building robust backend applications, scalable systems, and exploring innovative tech solutions.
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and TypeScript**. I also have experience with **AWS, Docker, and Cloudinary** integrations.
-- 📫 How to reach me: [peeru548@gmail.com](mailto:peeru548@gmail.com)
----
-
 <div style="background-color: #0d1117; padding: 2rem; border-radius: 8px;">
   <h3 style="color: #c9d1d9; margin-bottom: 1.5rem; font-family: system-ui;">Languages & Tools</h3>
   
+  <div style="margin-bottom: 1.5rem;">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,tailwind,mongodb,postgres,docker,aws,nginx,figma,git,postman,graphql" alt="Skills" />
+  </div>
 </div>
 
 ### 🛠️ Projects & Work:
