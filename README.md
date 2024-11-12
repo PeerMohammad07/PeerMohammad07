@@ -19,9 +19,6 @@
 <div style="background-color: #0d1117; padding: 2rem; border-radius: 8px;">
   <h3 style="color: #c9d1d9; margin-bottom: 1.5rem; font-family: system-ui;">Languages & Tools</h3>
   
-  <div style="margin-bottom: 1.5rem;">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,tailwind,mongodb,postgres,docker,aws,nginx,figma,git,postman,graphql" alt="Skills" />
-  </div>
 </div>
 
 ### 🛠️ Projects & Work:
