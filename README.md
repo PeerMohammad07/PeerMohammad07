@@ -13,9 +13,6 @@
   <div style="margin-bottom: 1.5rem;">
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nodejs,expressjs,mongodb,react,redux,materialui,tailwind,figma,postman,vscode,postgresql,aws,docker,nginx" alt="Skills" />
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/socket.svg" alt="Socket.IO" height="30" width="40" />
-
-<span style="font-size: 30px; font-weight: bold; color: #fff;">DSA</span>  </div>
 </div>
 
 ### 🛠️ Projects & Work:
