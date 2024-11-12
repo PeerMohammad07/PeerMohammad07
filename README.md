@@ -17,8 +17,6 @@
 
 ### 🛠️ Projects & Work:
 - 👨‍💻 All of my projects are available at <a href="https://github.com/PeerMohammad07?tab=repositories">My GitHub Repositories</a>
-- 📌 **SnapGallery**: A MERN stack image management app with drag-and-drop capabilities and customizable layouts.
-- 📌 **Blog Management System**: A blog platform with JWT authentication and robust CRUD functionalities.
 - 📌 **DreamBuy Real Estate**: A clean architecture-driven real estate application featuring multi-user roles, secure login, and payment integrations.
 - 📌 **Kef E-commerce**: An e-commerce platform with MVC architecture, Razorpay and Stripe integration for secure transactions.
 
